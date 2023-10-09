@@ -35,7 +35,7 @@ This project aims to predict the success of Falcon 9 rocket landings, which has 
 In conclusion, this project provided valuable insights into Falcon 9 rocket landing success factors. It highlighted the importance of flight amount, launch site, and orbit type. The Decision tree classifier proved to be the best model for predicting landing success.
 
 ## 6. Appendix:
-- Data collection notebooks: [SpaceX API](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Data%20Collection%20API.ipynb), [Web Scraping](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
+- Data collection notebooks: [SpaceX API](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Data%20Collection%20API.ipynb), [Web Scraping](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
 - Data wrangling notebook: [Data Wrangling](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Data%20Wrangling.ipynb)
 - EDA notebooks: [Data Visualization](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/EDA%20with%20Data%20Visualization.ipynb), [SQL](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/EDA%20with%20SQL.ipynb)
 - Interactive maps: [Folium](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Interactive%20Map%20with%20Folium.ipynb)
