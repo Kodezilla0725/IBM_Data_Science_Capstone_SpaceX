@@ -36,10 +36,10 @@ In conclusion, this project provided valuable insights into Falcon 9 rocket land
 
 ## 6. Appendix:
 - Data collection notebooks: [SpaceX API](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Data%20Collection%20API.ipynb), [Web Scraping](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
-- Data wrangling notebook: [Data Wrangling](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Data%20Wrangling.ipynb)
-- EDA notebooks: [Data Visualization](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/EDA%20with%20Data%20Visualization.ipynb), [SQL](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/EDA%20with%20SQL.ipynb)
-- Interactive maps: [Folium](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Interactive%20Map%20with%20Folium.ipynb)
-- Interactive dashboard: [Plotly Dash](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/app.py)
-- Predictive analysis notebook: [Machine Learning Prediction](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/blob/main/Machine%20Learning%20Prediction.ipynb)
+- Data wrangling notebook: [Data Wrangling](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Data%20Wrangling.ipynb)
+- EDA notebooks: [Data Visualization](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/EDA%20with%20Data%20Visualization.ipynb), [SQL](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/EDA%20with%20SQL.ipynb)
+- Interactive maps: [Folium](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
+- Interactive dashboard: [Plotly Dash](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/app.py)
+- Predictive analysis notebook: [Machine Learning Prediction](https://github.com/Kodezilla0725/IBM_Data_Science_Capstone_SpaceX/blob/main/Machine%20Learning%20Prediction.ipynb)
 
 This project provides actionable insights into rocket landing success and lays the foundation for further analysis and decision-making in the aerospace industry.
